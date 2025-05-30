@@ -1,0 +1,17 @@
+@import 'tailwindcss';
+
+/* Theme variables */
+
+@theme {
+  /* Colors */
+  --color-white-color: hsl(0, 0, 100%);
+  --color-very-dark-gray: hsl(0, 0%, 17%);
+  --color-dark-gray: hsl(0, 0%, 59%);
+
+  /* Typography */
+  --text-main-input-font-size: 18px;
+  /* Font family */
+  --default-font-family: 'Rubik', sans-serif;
+  --font-family: 'Rubik', sans-serif;
+  --tracking-main-space: 5px;
+}
